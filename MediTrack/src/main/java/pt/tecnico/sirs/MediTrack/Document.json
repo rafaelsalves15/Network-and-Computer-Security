@@ -1,0 +1,32 @@
+{
+    "patient": {
+      "name": "Bob",
+      "sex": "Male",
+      "dateOfBirth": "2004-05-15",
+      "bloodType": "A+",
+      "knownAllergies": ["Penicillin"],
+      "consultationRecords": [
+        {
+          "date": "2022-05-15",
+          "medicalSpeciality": "Orthopedic",
+          "doctorName": "Dr.Smith",
+          "practice": "OrthoCare Clinic",
+          "treatmentSummary": "Fractured left tibia; cast applied."
+        },
+        {
+          "date": "2023-04-20",
+          "medicalSpeciality": "Gastroenterology",
+          "doctorName": "Dr.Johnson",
+          "practice": "Digestive Health Center",
+          "treatmentSummary": "Diagnosed with gastritis; prescribed antacids."
+        },
+        {
+          "date": "2023-09-05",
+          "medicalSpeciality": "Dermatology",
+          "doctorName": "Dr.Martins",
+          "practice": "SkinCare Clinic",
+          "treatmentSummary": "Treated for Molluscum Contagiosum; prescribed topical corticosteroids."
+        }
+      ]
+    }
+  }
