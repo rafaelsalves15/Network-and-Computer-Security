@@ -11,7 +11,6 @@
 
  
 
-![David](img/david.png) ![Eduardo](img/eduardo.png) ![Rafael](img/rafael.png)
 
 
 ## Contents
